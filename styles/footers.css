@@ -1,0 +1,33 @@
+.footers {
+	background-color: #228A85;
+	color:white;
+	display:grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+	margin-top: 16px;
+}
+
+.list-inline li {
+	display: inline;
+	margin:0 16px;
+	font-size: 40px;
+	text-align: center;
+}
+.fa-brands {
+	color: white;
+	align-items: center;
+}
+
+.fa-brands:hover {
+	color: #D1EEEB;
+}
+
+.footer {
+	justify-content: center;
+	align-self: center;
+}
+
+h4{
+	margin:16px;
+	font-family: 'Open Sans', sans-serif;
+}

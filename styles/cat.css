@@ -1,0 +1,16 @@
+.cat {
+background-image: url(../images/basilique_marseille.jpeg);
+color:white;
+font-family: 'League Spartan', sans-serif;
+background-size: 100%;
+align-items: top;
+background-attachment: fixed;
+	height: 400px;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin:0;
+	text-shadow: 2px 2px 2px #434656;
+}

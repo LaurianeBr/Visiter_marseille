@@ -1,0 +1,13 @@
+.button-citypass {
+	background-color:#228A85;
+	color : white;
+	padding: 8px 16px;
+	border-radius: 6px;
+}
+
+.button-citypass:hover {
+	background-color: #D1EEEB;
+	color:#BB6D38;
+	transition: 1s;
+	text-shadow: none;
+}

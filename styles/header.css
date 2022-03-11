@@ -1,0 +1,26 @@
+#header {
+	background-color: #228A85;
+	margin-bottom: 16px;
+	grid-gap: 20px;
+	display:grid;
+}
+
+.fa-solid {
+	color: white;
+	text-align: left;
+}
+.fa-solid:hover {
+	color: #D1EEEB;
+}
+
+.list-icone li{
+	display: inline;
+	margin:0 16px;
+	font-size: 25px;
+	text-align: center;
+
+}
+.header {
+	justify-content: center;
+	align-self: center;
+}

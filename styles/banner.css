@@ -1,0 +1,19 @@
+#banner {
+	color: white;
+	background-image: url(../images/vue_marseille.jpeg);
+	background-attachment: fixed;
+	height: 400px;
+	background-size: cover;
+	background-position: top;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin:0;
+	text-shadow: 2px 2px 2px #434656;
+}
+h1{font-family: 'Open Sans', sans-serif;
+}
+
+h2 {font-family: 'League Spartan', sans-serif;
+}
